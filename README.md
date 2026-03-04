@@ -11,8 +11,8 @@
   **Digital Transformation Agency**
   
   <a href="https://dg10.agency"><img src="https://img.shields.io/badge/Website-DG10.Agency-7C3AED?style=for-the-badge&logo=globe&logoColor=white" alt="Website" /></a>
-  <a href="https://linkedin.com/company/dg10"><img src="https://img.shields.io/badge/LinkedIn-DG10_Agency-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="mailto:contact@dg10.agency"><img src="https://img.shields.io/badge/Contact-Us-10B981?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Contact" /></a>
+  <a href="[https://linkedin.com/company/dg10](https://www.linkedin.com/company/dg10agency)"><img src="https://img.shields.io/badge/LinkedIn-DG10_Agency-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="mailto:hello@dg10.agency"><img src="https://img.shields.io/badge/Contact-Us-10B981?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Contact" /></a>
 
   ---
 </div>
@@ -58,7 +58,6 @@ If a project requires multi-platform hardware access via React Native or Flutter
 ## 📈 Telemetry
 <div align="center">
   <a href="https://github.com/DG10-Agency">
-    <img src="https://github-readme-stats.vercel.app/api?username=DG10-Agency&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=C9D1D9&icon_color=7C3AED" alt="DG10 GitHub Stats" />
   </a>
 </div>
 
