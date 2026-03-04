@@ -5,19 +5,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=220&section=header&text=DG10%20Agency&fontSize=60&fontAlignY=38&desc=Engineering%20enterprise%20systems%20and%20data%20infrastructure.&descAlignY=60&descSize=20&animation=typing&fontColor=ffffff&descTheme=ffffff" width="100%" />
 </div>
 
-<!-- OPTION 2: The Soft-Glow Professional Concept -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=7C3AED&height=220&section=header&text=DG10%20Agency&fontSize=60&fontAlignY=45&desc=We%20build%20scalable%20platforms.%20Zero%20compromises.&descAlignY=65&descSize=22&animation=fadeIn&fontColor=ffffff&descTheme=ffffff" width="100%" />
-</div>
-
-<!-- OPTION 3: The Hard-Edged Minimalist Concept -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=220&section=header&text=DG10%20Agency&fontSize=65&fontAlignY=45&desc=Architecting%20the%20digital%20future.&descAlignY=65&descSize=20&animation=scaleIn&fontColor=7C3AED&descTheme=8B5CF6&stroke=7C3AED&strokeWidth=2" width="100%" />
-</div>
 
 <div align="center">
   # DG10 Agency 
-  **Engineering the Future of Digital Business**
+  **Digital Transformation Agency**
   
   <a href="https://dg10.agency"><img src="https://img.shields.io/badge/Website-DG10.Agency-7C3AED?style=for-the-badge&logo=globe&logoColor=white" alt="Website" /></a>
   <a href="https://linkedin.com/company/dg10"><img src="https://img.shields.io/badge/LinkedIn-DG10_Agency-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
